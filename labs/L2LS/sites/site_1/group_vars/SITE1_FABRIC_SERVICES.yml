@@ -37,8 +37,8 @@ tenants:
                 ip_address: 10.25.25.2/24
               - node: s1-spine2
                 ip_address: 10.25.25.3/24
-          - id: 55
-            name: 'Twenty-five'
+          - id: 35
+            name: 'Thiry-five'
             tags: [ "Baging" ]
             enabled: true
             ip_virtual_router_addresses:
